@@ -262,8 +262,6 @@ footer {
     background-color: var(--main-color);
     border-top: 1px solid grey;
     position: fixed;
-    position: center;
-    
 }
 
 .footer-menu {
