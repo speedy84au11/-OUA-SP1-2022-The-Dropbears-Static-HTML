@@ -160,8 +160,8 @@ nav {
      position: absolute;
      padding-top: 1px;
      text-align: left;
-     top: 80px;
-     width: 250px;
+     top: 40px;
+     width: 300px;
      min-height: 250px;
      background-color: white;
      border-top: solid var(--main-color) 3px;
