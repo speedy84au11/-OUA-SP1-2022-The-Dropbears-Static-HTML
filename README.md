@@ -1,5 +1,4 @@
-# -OUA-SP1-2022-The-Dropbears-Static-HTML
-Static Html on the group app 
+# OUA-SP1-2022-The-Dropbears
+The Conneted App
 
-
-https://speedy84au11.github.io/-OUA-SP1-2022-The-Dropbears-Static-HTML/
+https://speedy84au11.github.io/OUA-SP1-2022-The-Dropbears/
