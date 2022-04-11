@@ -292,12 +292,12 @@ footer {
 
 .bottom-bar {
     text-align: center;
-    height: 25px;
+    height: 20px;
     background-color: var(--main-color);
     color: white;
     border-top: solid 1px white;
 }
 
 .bottom-bar p {
-    line-height: 25px;
+    line-height: 20px;
 }
