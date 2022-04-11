@@ -20,6 +20,7 @@
                 <input type="text" id="mname" name="middlename" placeholder="Your middle name..">
             </div>
         </div>
+        
 
         <!-- Last name input -->
         <div class="row">

@@ -11,6 +11,7 @@ body {
     background-image: linear-gradient(to bottom, white , var(--main-color));
 }
 
+
 /* Set CSS variavle */
 :root {
     --main-color: #0B74BD;
@@ -57,7 +58,7 @@ header {
 .topbar-content p{
     letter-spacing: .5px;
     font-family: var(--main-font);
-    font-size: .6rem; 
+    font-size: .6rem;
     font-weight: bold;
 }
 
@@ -134,7 +135,7 @@ header {
         width: 120px;
     }
 }
- 
+
 /* ======================
    Logo Bar styling
 =========================*/
@@ -200,10 +201,10 @@ header {
 
     .logo-bar img {
         float: left;
-    }   
+    }
 }
 
-/* Logo bar media query */ 
+/* Logo bar media query */
 @media screen and (max-width: 400px) {
 
     .logo-bar {
@@ -266,7 +267,7 @@ header {
 #mobile-menu-container {
     display: none;
     width: auto;
-    margin-top: 5px;  
+    margin-top: 5px;
 }
 
 .mobile-menu-content {
@@ -349,7 +350,7 @@ main h4 {
     margin-top: 170px;
     display: flex;
     justify-content: center;
-    align-items: center;  
+    align-items: center;
 }
 
 .can-content, .will-content {
@@ -395,7 +396,7 @@ main h4 {
 }
 
 /*=======================
-  Testamonial Section 
+  Testamonial Section
 =========================*/
 
 .testimonial {
@@ -416,7 +417,7 @@ main h4 {
     padding-top: 30px;
     box-shadow: 1px 1px 1px 1px var(--main-color);
 }
-  
+
 .test-text, .test-name, .test-location {
     margin: auto;
 }
@@ -426,7 +427,7 @@ main h4 {
     color: rgb(100, 100, 100);
     font-size: 1.2em;
     margin-top: 20px;
-    margin-bottom: 20px; 
+    margin-bottom: 20px;
 }
 
 .test-name {
@@ -494,7 +495,7 @@ main h4 {
     padding-top: 20px;
     text-align: center;
     background-color: rgb(238, 238, 238);
-    border-top: 1px solid var(--main-color);     
+    border-top: 1px solid var(--main-color);
 }
 
 .footer-content img {
@@ -527,7 +528,7 @@ main h4 {
 .registration {
     margin: 25px 0px;
     display: flex;
-    justify-content: center;  
+    justify-content: center;
 }
 
 .registration-wrapper {
@@ -606,11 +607,11 @@ input[type=submit]:hover {
 
     .label-column {
         width: 40%;
-        font-size: .7rem; 
+        font-size: .7rem;
     }
-    
+
     .input-column {
-        width: 60%; 
+        width: 60%;
     }
 
     .form-heading {
@@ -623,7 +624,7 @@ input[type=submit]:hover {
     .registration-wrapper {
         width: 80%;
     }
-    
+
 }
 
 /* Temporary page styling */

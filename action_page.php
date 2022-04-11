@@ -9,5 +9,6 @@
     echo "<img src='path/to/myphoto.jpg' alt='photo of me' />";
 ?>
 
+
 </body>
-</html> 
+</html>

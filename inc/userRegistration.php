@@ -20,6 +20,7 @@
         </div>
     </div>
 
+
     <!-- Last name input -->
     <div class="row">
         <div class="label-column">
@@ -46,7 +47,7 @@
             <label for="dob">Date Of Birth</label>
         </div>
         <div class="input-column">
-            <input type="date" id="dob" name="dob">   
+            <input type="date" id="dob" name="dob">
         </div>
     </div>
 
@@ -186,4 +187,3 @@
         <input type="submit" value="Submit">
     </div>
 </form>
-    

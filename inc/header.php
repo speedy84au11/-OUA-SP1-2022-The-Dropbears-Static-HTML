@@ -11,6 +11,7 @@
 </head>
 <body>
     <header>
+      
 
     <!-- Top bar content -->
         <div class="top-bar">
@@ -45,7 +46,7 @@
 
                 <!-- Main sign in button -->
                 <button class="sign-in"><a href="login.php">Sign In</a></button>
-                
+
                 <!-- Mobile Menu -->
                 <div class="mobile-menu" onclick="toggleMenu()">
                     <svg class="mobile-menu" viewBox="0 0 100 80" width="30" height="30">
@@ -67,8 +68,8 @@
                 <li class="menu-item"><a href="about.php">About</a></li>
                 <li class="menu-item"><a href="forum.php">Forum</a></li>
                 <li class="menu-item"><a href="contact.php">Contact</a></li>
-            </ul> 
-        </nav>   
+            </ul>
+        </nav>
 
         <!-- mobile side menu -->
         <div id="mobile-menu-container" >
