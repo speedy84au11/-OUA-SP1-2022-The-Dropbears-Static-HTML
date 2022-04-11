@@ -158,10 +158,10 @@ nav {
  .dd-menu {
      display: none;
      position: absolute;
-     padding-top: 15px;
+     padding-top: 1px;
      text-align: left;
-     top: 95px;
-     width: 250px;
+     top: 80px;
+     width: 100px;
      min-height: 250px;
      background-color: white;
      border-top: solid var(--main-color) 3px;
