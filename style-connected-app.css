@@ -250,7 +250,7 @@ nav {
 ===================*/
 
 main {
-    height: 600px;
+    height: 80vh;
 }
 
 /* =================
@@ -292,12 +292,12 @@ footer {
 
 .bottom-bar {
     text-align: center;
-    height: 20px;
+    height: 25px;
     background-color: var(--main-color);
     color: white;
     border-top: solid 1px white;
 }
 
 .bottom-bar p {
-    line-height: 20px;
+    line-height: 25px;
 }
